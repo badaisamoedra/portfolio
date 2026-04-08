@@ -167,7 +167,7 @@ export default function Navbar() {
                   onClick={() => setIsOpen(false)}
                 >
                   <span className="text-[#F5B21B]">●</span>
-                  Hire Me
+                  Talk to Me
                 </a>
               </motion.li>
             </ul>
